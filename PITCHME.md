@@ -115,7 +115,9 @@ Hampir bisa digunakan di berbagai bidang:
 - Jika bukan? gunakan VS Code dengan support debugging tools
 @ulend
 
----
+---?image=http://www.lihaoyi.com/post/Diving/Spyder.png&size=auto 90%
+
+---?image=http://arogozhnikov.github.io/images/jupyter/example-notebook.png&size=auto 90%
 
 ### Identation!
 

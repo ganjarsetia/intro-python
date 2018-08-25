@@ -142,7 +142,7 @@ biasanya menggunakan spasi 2 kali atau 4 kali.
 
 ## Null Syntax
 
-Digunakan untuk menyatakan variabel kosong.
+untuk menyatakan isi variabel tidak ada
 
 ```python
 alamat = None

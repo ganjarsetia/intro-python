@@ -105,3 +105,24 @@ Hampir bisa digunakan di berbagai bidang:
 ---?gist=ganjarsetia/de3c0ba3f66c22aaa4e00fd0294c7711&lang=python&title=Sample Code
 @[1](Initialization code)
 @[11-12](Standard boilerplate untuk memanggil fungsi main)
+
+---
+### Choose right IDE!
+
+Depend on your need
+
+Jika anda seorang Data Scientist gunakan Spyder or Jupyter Notebook.
+karena mudah digunakan, interactive data science environment.
+Tidak hanya IDE, tetapi bisa digunakan sebagai presentasi/demo atau pembelajaran.
+
+Jika tujuannya untuk hal lain, gunakan VS Code dengan support debugging tools
+
+---
+
+## Identation!
+
+Identasi di python sangatlah penting. Bertujuan agar bisa mengidentifikasi blok kode.
+
+![Identation](https://d33wubrfki0l68.cloudfront.net/6d38cb172315d30651c04f053ba5f834aa2f513a/3f439/img/python/sintaks/blok-program-python.png)
+
+biasanya menggunakan spasi 2 kali atau 4 kali.

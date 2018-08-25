@@ -147,3 +147,5 @@ untuk menyatakan isi variabel tidak ada
 ```python
 alamat = None
 ```
+
+---?gist=ganjarsetia/68b5ab2a401a6f4846fab227354dde91&lang=python&title=Conditional Syntax

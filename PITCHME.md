@@ -158,7 +158,7 @@ alamat = None
 
 ### Function
 
-membuat function bisa menggunakan argumen maupun tidak. Dan bisa set default argument jika tidak ada.
+membuat function bisa menggunakan argumen maupun tidak. Dan bisa set default argument.
 
 ```python
 def tambah(a, b):
@@ -171,7 +171,7 @@ def panggil(nama='Genji')
 @[4](argumen dengan default value)
 
 ---
-### Sample Fibonacci kode
+### Sample function Fibonacci kode
 
 ```python
 def fib(n):

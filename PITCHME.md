@@ -22,19 +22,19 @@ Python is an interpreted, object-oriented, high-level programming language with 
 ---
 
 @snap[north-west]
-![](https://pbs.twimg.com/profile_images/638786550206230529/fwnBbDZF.png)
+---?image=https://pbs.twimg.com/profile_images/638786550206230529/fwnBbDZF.png&size=auto 40%&color=black
 @snapend
 
 @snap[north]
-![](https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/script.facebook.media/icon/icon.png?itok=SbWdoYJH)
+---?image=https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/script.facebook.media/icon/icon.png?itok=SbWdoYJH&size=auto 40%&color=black
 @snapend
 
 @snap[north-west]
-![](http://blueprintpractice.com/wp-content/uploads/2017/02/Instagram-logo-2016-01-128x128-1.png)
+---?image=http://blueprintpractice.com/wp-content/uploads/2017/02/Instagram-logo-2016-01-128x128-1.png&size=auto 40%&color=black
 @snapend
 
 @snap[north-east]
-![](https://lh3.googleusercontent.com/u5--nVUXGjh0npJKCophbNQjxsMU4DyOq2PbXcrULXWi5KdNl5JY87jhA82G12gNOrk=s128)
+---?image=https://lh3.googleusercontent.com/u5--nVUXGjh0npJKCophbNQjxsMU4DyOq2PbXcrULXWi5KdNl5JY87jhA82G12gNOrk=s128&size=auto 40%&color=black
 @snapend
 
 @snap[west]

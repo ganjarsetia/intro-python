@@ -77,7 +77,7 @@ Hampir bisa digunakan di berbagai bidang:
 - Perbedaan ?? see next slide
 @ulend
 
----?image=assets/images/python-2-vs-python-31-780x350.jpg&opacity=20
+---?image=assets/images/sunset.jpg&opacity=20
 @title[Code Talking]
 
 ### Let your

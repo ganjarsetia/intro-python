@@ -16,5 +16,5 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 - Dibuat oleh Guido van Rossum.
 - Dirumuskan dan direncanakan pada tahun 1980, dan mulai di implementasi pada tahun 1989
-- Nama nya diambil dari acara TV Monty Python's Flying Circus.
+- Nama nya diambil dari acara TV Monty @color[darkorange](Python)'s Flying Circus.
 - Sejak awal sudah berlisensi @color[#de935f](open source).

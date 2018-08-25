@@ -129,4 +129,4 @@ biasanya menggunakan spasi 2 kali atau 4 kali.
 
 @[1](Single comment)
 @[3-6](Multi Line comment)
-@[8-9](Contoh lain multi comment)
+@[8-9](Contoh lain single comment)

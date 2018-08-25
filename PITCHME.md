@@ -130,3 +130,18 @@ biasanya menggunakan spasi 2 kali atau 4 kali.
 @[1](Single comment)
 @[3-6](Multi Line comment)
 @[8-9](Contoh lain single comment)
+
+---?gist=ganjarsetia/3f54d808b17fb95d8a925424d9c32aa4&lang=python&title=Strings Syntax
+
+@[1](Single line)
+@[4-5](Multi Line strings)
+
+---?gist=ganjarsetia/7b5fdba0fa86af69ee3822c107adff4d&lang=python&title=Number Syntax
+
+## Null Syntax
+
+Digunakan untuk menyatakan variabel kosong.
+
+```python
+alamat = None
+```

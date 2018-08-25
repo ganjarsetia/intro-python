@@ -19,9 +19,7 @@ Python is an interpreted, object-oriented, high-level programming language with 
 - Nama nya diambil dari acara TV Monty @color[darkorange](Python)'s Flying Circus.
 - Sejak awal sudah berlisensi @color[#de935f](open source).
 
----
-
-?color=#E49436
+---?color=#E49436
 
 @snap[north-west]
 @fa[google fa-4x]
@@ -56,10 +54,11 @@ Python is an interpreted, object-oriented, high-level programming language with 
 ## Mengapa menggunakan python
 
 Hampir sudah terinstall di tiap OS
+Mudah digunakan
+Mudah dipelajari, karena syntax nya yang simple
+
 Hampir bisa digunakan di berbagai bidang:
 - Backend
 - Data Science, Statistik, mathematics
 - Sys Admin, like Linux installer (system scripting)
 - etc
-Mudah digunakan
-Mudah dipelajari, karena syntax nya yang simple

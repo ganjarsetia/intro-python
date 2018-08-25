@@ -156,8 +156,32 @@ alamat = None
 
 ---
 
+### Function
+
+membuat function bisa menggunakan argumen maupun tidak. Dan bisa set default argument jika tidak ada.
+
 ```python
-def tambah(x, y):
-    return x + y
+def tambah(a, b):
+    return a + b
+
+def panggil(nama='Genji')
+    print(nama)
 ```
-@[1](Single line)
+@[1](argumen tanpa default value)
+@[4](argumen dengan default value)
+
+---
+### Sample Fibonacci kode
+
+```python
+def fib(n):
+    # fibonacci sampai dengan n
+    results = []
+    a, b = 0, 1
+    while a < n:
+        results.append(a)
+        a, b = b, a + b
+    return a
+```
+@[4](sample assign variable)
+@[7](bisa juga seperti ini)

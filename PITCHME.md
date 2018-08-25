@@ -67,9 +67,9 @@ Hampir bisa digunakan di berbagai bidang:
 - Sys Admin, like Linux installer (system scripting)
 - etc
 
----?image=assets/images/python-2-vs-python-31-780x350.jpg&opacity=30
+---
 
-## @color[black](Yang harus diketahui)
+## Yang harus diketahui
 
 @ul
 - Python memiliki 2 versi. Keduanya masih sering digunakan dan di maintain dari dulu.
@@ -77,9 +77,8 @@ Hampir bisa digunakan di berbagai bidang:
 - Perbedaan ?? see next slide
 @ulend
 
----?image=assets/images/sunset.jpg&opacity=20
-@title[Code Talking]
+---
+@transition[concave]
+### perbedaan python 2 & 3
 
-### Let your
-## @css[shoutout](Code)
-#### Do The Talking
+![](https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/uploads/2014/06/python-2-vs-3-2018.png)

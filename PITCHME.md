@@ -117,10 +117,16 @@ Hampir bisa digunakan di berbagai bidang:
 
 ---
 
-## Identation!
+### Identation!
 
 Identasi di python sangatlah penting. Bertujuan agar bisa mengidentifikasi blok kode.
 
+biasanya menggunakan spasi 2 kali atau 4 kali.
+
 ![Identation](https://d33wubrfki0l68.cloudfront.net/6d38cb172315d30651c04f053ba5f834aa2f513a/3f439/img/python/sintaks/blok-program-python.png)
 
-biasanya menggunakan spasi 2 kali atau 4 kali.
+---?gist=ganjarsetia/96f1c4778611ef3d7564e009577a122f&lang=python&title=Comment Syntax
+
+@[1](Single comment)
+@[3-6](Multi Line comment)
+@[8-9](Contoh lain multi comment)

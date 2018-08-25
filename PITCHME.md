@@ -119,6 +119,8 @@ Hampir bisa digunakan di berbagai bidang:
 
 ---?image=http://arogozhnikov.github.io/images/jupyter/example-notebook.png&size=auto 90%
 
+----
+
 ### Identation!
 
 Identasi di python sangatlah penting. Bertujuan agar bisa mengidentifikasi blok kode.

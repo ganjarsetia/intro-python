@@ -109,13 +109,11 @@ Hampir bisa digunakan di berbagai bidang:
 ---
 ### Choose right IDE!
 
-Depend on your need
-
-Jika anda seorang Data Scientist gunakan Spyder or Jupyter Notebook.
-karena mudah digunakan, interactive data science environment.
-Tidak hanya IDE, tetapi bisa digunakan sebagai presentasi/demo atau pembelajaran.
-
-Jika tujuannya untuk hal lain, gunakan VS Code dengan support debugging tools
+@ul
+- Sesuaikan dengan kebutuhan Anda.
+- Anda seorang Data Scientist ? gunakan Spyder or Jupyter Notebook
+- Jika bukan? gunakan VS Code dengan support debugging tools
+@ulend
 
 ---
 

@@ -102,6 +102,6 @@ Hampir bisa digunakan di berbagai bidang:
 - Or run python, then do the syntax
 @olend
 
----?gist=ganjarsetia/de3c0ba3f66c22aaa4e00fd0294c7711&lang=python&color=yellow&title=Sample Code
+---?gist=ganjarsetia/de3c0ba3f66c22aaa4e00fd0294c7711&lang=python&title=Sample Code
 @[1](Initialization code)
 @[11-12](Standard boilerplate untuk memanggil fungsi main)

@@ -21,7 +21,7 @@ Python is an interpreted, object-oriented, high-level programming language with 
 
 ---
 
----?color=#E49436
+?color=#E49436
 
 @snap[north-west]
 @fa[google fa-4x]
@@ -50,3 +50,16 @@ Python is an interpreted, object-oriented, high-level programming language with 
 @snap[midpoint]
 # Perusahan ternama yang menggunakan python ?
 @snapend
+
+---
+
+## Mengapa menggunakan python
+
+Hampir sudah terinstall di tiap OS
+Hampir bisa digunakan di berbagai bidang:
+- Backend
+- Data Science, Statistik, mathematics
+- Sys Admin, like Linux installer (system scripting)
+- etc
+Mudah digunakan
+Mudah dipelajari, karena syntax nya yang simple

@@ -79,4 +79,13 @@ Hampir bisa digunakan di berbagai bidang:
 
 ---?image=https://mk0learntocodew6bl5f.kinstacdn.com/wp-content/uploads/2014/06/python-2-vs-3-2018.png&size=auto 90%
 @transition[concave]
-### perbedaan python 2 & 3
+
+---
+## Lalu gunakan yang mana?
+
+@ul
+- The future. Python 3.
+- Now much faster
+- Much more library
+- Much more community support
+@ulend

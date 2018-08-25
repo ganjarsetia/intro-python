@@ -81,6 +81,7 @@ Hampir bisa digunakan di berbagai bidang:
 @transition[concave]
 
 ---
+
 ## Lalu gunakan yang mana?
 
 @ul
@@ -89,3 +90,16 @@ Hampir bisa digunakan di berbagai bidang:
 - Much more library
 - Much more community support
 @ulend
+
+---
+
+### how to start
+Install first. Kebanyakan sudah di install di Linux & Mac. Not recommended running on windows. For windows download it first
+
+Create file `hello.py`
+
+Write: `print("Hello World")`
+
+Then run it: `python hello.py`
+
+Or run python, then do the syntax

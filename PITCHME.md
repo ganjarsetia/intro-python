@@ -149,3 +149,15 @@ alamat = None
 ```
 
 ---?gist=ganjarsetia/68b5ab2a401a6f4846fab227354dde91&lang=python&title=Conditional Syntax
+
+---?gist=ganjarsetia/b8f8689edc1e28cc6ca56d9d7b383329&lang=python&title=For loop syntax
+
+---?gist=ganjarsetia/54338f82bde23b23f0522068d7886daf&lang=python&title=While syntax
+
+---
+
+```python
+def tambah(x, y):
+    return x + y
+```
+@[1](Single line)

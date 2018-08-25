@@ -66,3 +66,13 @@ Hampir bisa digunakan di berbagai bidang:
 - Data Science, Statistik, mathematics
 - Sys Admin, like Linux installer (system scripting)
 - etc
+
+---?image=https://ktechweb.files.wordpress.com/2016/08/python-2-vs-python-31-780x350.jpg&opacity=40
+
+# Yang harus diketahui
+
+@ul
+- Python memiliki 2 versi. Keduanya masih sering digunakan dan di maintain dari dulu.
+- Why ?
+- Perbedaan ?? see next slide
+@ulend

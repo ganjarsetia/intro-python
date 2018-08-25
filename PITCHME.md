@@ -46,18 +46,22 @@ Python is an interpreted, object-oriented, high-level programming language with 
 @snapend
 
 @snap[midpoint]
-# Perusahan ternama yang menggunakan python ?
+Perusahan ternama yang menggunakan python ?
 @snapend
 
 ---
 
-## Mengapa menggunakan python
+### Mengapa menggunakan python
 
 Hampir sudah terinstall di tiap OS
+<br>
 Mudah digunakan
+<br>
 Mudah dipelajari, karena syntax nya yang simple
+<br>
 
 Hampir bisa digunakan di berbagai bidang:
+<br>
 - Backend
 - Data Science, Statistik, mathematics
 - Sys Admin, like Linux installer (system scripting)

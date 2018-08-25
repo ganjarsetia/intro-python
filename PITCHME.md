@@ -1,3 +1,5 @@
+theme : night
+
 # Introduction to python
 
 By: Ganjar Setia

@@ -138,6 +138,8 @@ biasanya menggunakan spasi 2 kali atau 4 kali.
 
 ---?gist=ganjarsetia/7b5fdba0fa86af69ee3822c107adff4d&lang=python&title=Number Syntax
 
+---
+
 ## Null Syntax
 
 Digunakan untuk menyatakan variabel kosong.

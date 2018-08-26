@@ -216,7 +216,7 @@ data[-2]
 ### Data Structure - Tuple
 Tuple is a collection which is ordered and unchangeable.
 
-karena tuples immutable dan tidak bisa diubah, tuples lebih cepat di proses dibandingkan list.
+Tuples lebih cepat di proses dibandingkan list.
 
 ```python
 statik = 2, 7, 6, 5

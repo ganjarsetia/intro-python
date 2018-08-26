@@ -207,8 +207,26 @@ data[1:4]
 data[-2]
 ```
 @[1](Cara mengisi list)
-@[3](ambil isi element)
-@[6](range slicing)
-@[9](ambil element dari belakang)
+@[4](ambil isi element)
+@[7](range slicing)
+@[10](ambil element dari belakang)
+
+---
+
+### Data Structure - Tuple
+Tuple is a collection which is ordered and unchangeable.
+
+karena tuples immutable dan tidak bisa diubah, tuples lebih cepat di proses dibandingkan list.
+
+```python
+statik = 2, 7, 6, 5
+# hasilnya: (2, 7, 6, 5) outputnya akan selalu dibungkus tanda ()
+
+# cara akses element sama dengan list
+statik[0]
+
+```
+@[1-2](Cara mengisi list)
+@[4-5](ambil isi element)
 
 ---

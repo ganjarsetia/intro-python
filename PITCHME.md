@@ -189,3 +189,26 @@ def fib(n):
 ```
 @[4](sample assign variable)
 @[7](bisa juga seperti ini)
+
+---
+### Data Structure - List
+List is a collection which is ordered and changeable. Di bahasa pemrograman yang lain, list adalah array.
+
+```python
+data = [2, 7, 6, 5]
+
+# cara akses element list dengan menuliskan tanda [] dan didalamnya terdapat angka index element. Index dimulai dari 0
+data[0]
+
+# cara lain dengan range slicing.  argument: index pertama dan terakhir yang diambil
+data[1:4]
+
+# mengakses element dari belakang. Cukup beri tanda negatif
+data[-2]
+```
+@[1](Cara mengisi list)
+@[3](ambil isi element)
+@[6](range slicing)
+@[9](ambil element dari belakang)
+
+---

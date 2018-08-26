@@ -230,3 +230,33 @@ statik[0]
 @[4-5](ambil isi element)
 
 ---
+
+### Data Structure - Dictionary
+Dictionary is a collection which is unordered, changeable and indexed. Key nya harus unik.
+
+Mirip dengan JSON.
+
+
+```python
+bio = {'nama': 'Genji', 'kota': 'Bandung', 'umur': 17}
+
+# cara ambil nilai suatu key
+bio['kota']
+
+# cara merubah nilai suatu key
+bio['kota'] = 'Jakarta'
+
+# cara menambahkan key dan value
+bio['pekerjaan'] = 'preman'
+
+```
+@[1](Inisialisasi dictionary)
+@[4](ambil nilai suatu key)
+@[7](cara merubah nilai suatu key)
+@[10](cara menambahkan key dan value)
+
+---
+
+@snap
+<h1>Thank you</h1>
+@snapend
